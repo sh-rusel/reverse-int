@@ -1,7 +1,7 @@
 module.exports = function reverse (n) {
    n.toString();
-   n.split();
+   n.split('');
    n.reverse();
-   n.join();
+   n.join('');
    return (n);
 }
