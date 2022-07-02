@@ -1,7 +1,7 @@
 module.exports = function reverse (n) {
-   let str;
-   for (let i; i<n.length; i++){
-      str[i]=n[n.length-1];
-   }
-   return str;
+   n.toString();
+   n.split();
+   n.reverse();
+   n.join();
+   return (n);
 }
